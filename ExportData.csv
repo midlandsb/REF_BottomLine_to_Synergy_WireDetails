@@ -1,0 +1,14 @@
+Bank Trace #,Customer,Debit Account   &#40;Payment&#41; Credit Account &#40;Drawdown&#41;,Template,Approved,Pay Method,Pay Type,Transfer Amount,Transfer Amount1,Processed,Status,Entry Method,Details
+Approved Transfers,Approved Transfers,,,,,,,,,,,
+"Send Date: Aug 23,2023","Send Date: Aug 23,2023","Send Date: Aug 23,2023","Send Date: Aug 23,2023","Send Date: Aug 23,2023","Send Date: Aug 23,2023","Send Date: Aug 23,2023","Send Date: Aug 23,2023","Send Date: Aug 23,2023","Send Date: Aug 23,2023","Send Date: Aug 23,2023","Send Date: Aug 23,2023",
+2023235000001,MSBTEST,67938 (USD) - Pro Free 350 Checking,,"MSBTEST LINDSAYJ
+08/23/2023 13:11:05",FW,PAYMENT,0.99,USD,"fi3649 saccount
+8/23/2023 02:03",Sent,F,
+2023235000002,MSBTEST,67938 (USD) - Pro Free 350 Checking,,"MSBTEST LINDSAYJ
+08/23/2023 13:11:05",FW,PAYMENT,0.75,USD,,Sent,F,
+2023235000003,MSBTEST,67938 (USD) - Pro Free 350 Checking,,"MSBTEST LINDSAYJ
+08/23/2023 13:11:05",FW,PAYMENT,0.01,USD,,Sent,F,
+,,,,,,,,,,,,
+Total:,Total:,Total:,Total:,Total:,Total:,USD,1.75,(3),,,,
+,,,,,,,,,,,,
+Approved Total:,Approved Total:,Approved Total:,Approved Total:,Approved Total:,Approved Total:,USD,1.75,(3),,,,

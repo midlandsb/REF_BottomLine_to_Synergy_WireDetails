@@ -1,0 +1,9 @@
+Bank Trace #,Customer,Debit Account   &#40;Payment&#41; Credit Account &#40;Drawdown&#41;,Transfer Amount,Status
+Approved Transfers,Approved Transfers,,,
+"Send Date: Mar 26,2024","Send Date: Mar 26,2024","Send Date: Mar 26,2024","Send Date: Mar 26,2024","Send Date: Mar 26,2024"
+2024086000001,MSBTEST,67938 (USD) - MIDLAND STATES BANK TEST ONLIN,0.33,Sent
+2024086000002,MSBTEST,67946 (USD) - Operating,0.29,Sent
+,,,,
+Total:,Total:,Total:,0.62,
+,,,,
+Approved Total:,Approved Total:,Approved Total:,0.62,

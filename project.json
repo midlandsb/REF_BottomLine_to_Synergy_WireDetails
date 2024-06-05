@@ -1,5 +1,6 @@
 {
   "name": "REF_BottomLine_to_Synergy_WireDetails",
+  "projectId": "2e0ae476-76d9-42f2-8b99-6ad321eb8cc9",
   "description": "REF for executing Wires from inside BottomLine, gathering the details pdf, and transfering the pdf into Synergy for indexing.",
   "main": "Main.xaml",
   "dependencies": {
@@ -12,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.4.4.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.7",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -20,6 +21,7 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
@@ -84,7 +86,8 @@
         "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
       }
     ],
-    "modernBehavior": true
+    "modernBehavior": true,
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
